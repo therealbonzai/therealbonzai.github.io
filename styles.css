@@ -60,7 +60,7 @@ h1, h2, h3, h4 {
   vertical-align: middle;
 }
 .post-author img, .about-author img {
-  border-radius: 100%;
+  border-radius: 50%;
 }
 .post-author span {
   margin-left: 45px;
